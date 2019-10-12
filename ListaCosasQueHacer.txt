@@ -1,0 +1,9 @@
+Cosas que hacer:
+
+-Estructura html
+
+
+-Estructura basica CSS
+
+-Estructura bonita BOOTSTRAP
+crear un template original
